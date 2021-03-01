@@ -3,8 +3,11 @@
   <name>project11_transformations</name>
   <version>1.0.0</version>
   <description>The project11_transformations package</description>
-
-  <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
+    <!-- version 0.0.0 original -->
+    <author email="roland@ccom.unh.edu">Roland Arsenault</author>
+    <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
+    <!-- version 1.0.0 modified -->
+    <maintainer email="marcos.barrera@seafloorsystems.com">Marcos Barrera</maintainer>
 
   <license>BSD</license>
 
